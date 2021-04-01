@@ -1,0 +1,25 @@
+[{
+    "id": 0,
+    "pic": "https://images-na.ssl-images-amazon.com/images/I/51WRaOtap-L._SX355_.jpg",
+    "name": "Bike",
+    "price": "10",
+    "number": "1"
+  }, {
+    "id": 1,
+    "pic": "https://i.ytimg.com/vi/pRuLtyIEBDA/maxresdefault.jpg",
+    "name": "Car",
+    "price": "20",
+    "number": "2"
+  }, {
+    "id": 2,
+    "pic": "https://assetsw.bus.com/content/uploads/2020/02/14170850/Charter-Bus-Rentals-Photo.jpg",
+    "name": "Bus",
+    "price": "80",
+    "number": "4"
+  }, {
+    "id": 3,
+    "pic": "https://c.files.bbci.co.uk/F76E/production/_115224336_mediaitem115224335.jpg",
+    "name": "Train",
+    "price": "50",
+    "number": "3"
+  }]
